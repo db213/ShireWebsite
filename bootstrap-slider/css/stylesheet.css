@@ -67,4 +67,27 @@
     padding-bottom: 15px;
   }
 }
-
+.right {
+    text-align: right;
+}
+.bio-text-left {
+    float: left;
+}
+.bio-text-right {
+    float: right;
+}
+.bio-image-left{
+    float: left;
+    display: block;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.bio-image-right {
+    float: right;
+    display: block;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.wrapper {
+  overflow: hidden;
+}
